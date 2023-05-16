@@ -14,3 +14,10 @@ Compiler: Using the CCS compiler that comes with Code Composer Studio. Please in
 Dependencies:
 CCS 11.2.0 (includes the armcl compiler)
 TivaWare 2.2.0.295
+
+
+# STATUS:
+
+Compile by running the ./compile_source_files.sh. 
+
+Currently not including FreeRTOS or cmake, that's work in progress. 
